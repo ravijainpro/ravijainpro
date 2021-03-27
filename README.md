@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a entrepreneur passionate about using technology for a social impact and always looking for new opportunities and challenges.
+I'm passionate about using technology for a social impact and always looking for new opportunities and challenges.
 
 I'm particularly interested by artificial intelligence, security and cloud computing. Most of all, I like thinking about ways to make the future more interesting.
 
